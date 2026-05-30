@@ -24,10 +24,10 @@ React.js • JavaScript • HTML5 • CSS3 • TailwindCSS • Redux • Vite
 Node.js • Express.js • PHP • JWT Authentication
 
 ### 🗄️ Databases
-MongoDB • MySQL • PostgreSQL • MariaDB
+MongoDB • MySQL 
 
 ### ☁️ DevOps & Tools
-Git • GitHub • Vercel • Render • Firebase • Heroku • Postman • Google Cloud
+Git • GitHub • Vercel • Render • Firebase • Postman • Google Cloud
 
 ---
 
