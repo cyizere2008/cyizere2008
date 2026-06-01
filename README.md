@@ -95,7 +95,7 @@ Git • GitHub • Vercel • Render • Firebase • Postman • Google Cloud
 ## 🌍 Portfolio
 
 🚀 Coming Soon:  
-👉 https://your-portfolio-link.com
+👉 https://portfolio-taupe-alpha-91.vercel.app/
 
 ---
 
